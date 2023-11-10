@@ -1,0 +1,21 @@
+body{
+    background-color: #edede9;
+}
+
+.container{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.first-child{
+    color: #1d3557;
+}
+
+.second-child{
+    background-color: #d6ccc2;
+    color: black;
+    padding: 2rem;
+    font-size: 1.5rem;
+}
